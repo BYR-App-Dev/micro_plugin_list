@@ -1,0 +1,17 @@
+{
+    "on": true,
+    "micro_plugins": [
+        {
+            "name": "chat",
+            "uri": "https://dwzhangdavid.com/byr/chat.bundle"
+        },
+        {
+            "name": "move_the_box",
+            "uri": "https://dwzhangdavid.com/byr/move_the_box.bundle"
+        },
+        {
+            "name": "2048",
+            "uri": "https://dwzhangdavid.com/byr/game_2048.bundle"
+        }
+    ]
+}
