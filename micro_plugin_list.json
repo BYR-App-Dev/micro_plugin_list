@@ -3,15 +3,21 @@
     "micro_plugins": [
         {
             "name": "chat",
-            "uri": "https://dwzhangdavid.com/byr/chat.bundle"
+            "uri": "https://dwzhangdavid.com/byr/microplugins/chat_android.bundle",
+            "uri_ios": "https://dwzhangdavid.com/byr/microplugins/chat_ios.bundle",
+            "uri_android": "https://dwzhangdavid.com/byr/microplugins/chat_android.bundle"
         },
         {
             "name": "move_the_box",
-            "uri": "https://dwzhangdavid.com/byr/move_the_box.bundle"
+            "uri": "https://dwzhangdavid.com/byr/microplugins/move_the_box_android.bundle",
+            "uri_ios": "https://dwzhangdavid.com/byr/microplugins/move_the_box_ios.bundle",
+            "uri_android": "https://dwzhangdavid.com/byr/microplugins/move_the_box_android.bundle"
         },
         {
             "name": "2048",
-            "uri": "https://dwzhangdavid.com/byr/game_2048.bundle"
+            "uri": "https://dwzhangdavid.com/byr/microplugins/game_2048_android.bundle",
+            "uri_ios": "https://dwzhangdavid.com/byr/microplugins/game_2048_ios.bundle",
+            "uri_android": "https://dwzhangdavid.com/byr/microplugins/game_2048_android.bundle"
         }
     ]
 }
