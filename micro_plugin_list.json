@@ -2,19 +2,19 @@
     "on": true,
     "micro_plugins": [
         {
-            "name": "idiom_solitaire",
+            "name": "成语接龙",
             "uri": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_android.bundle",
             "uri_ios": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_ios.bundle",
             "uri_android": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_android.bundle"
         },
         {
-            "name": "chat",
+            "name": "聊天",
             "uri": "https://dwzhangdavid.com/byr/microplugins/chat_android.bundle",
             "uri_ios": "https://dwzhangdavid.com/byr/microplugins/chat_ios.bundle",
             "uri_android": "https://dwzhangdavid.com/byr/microplugins/chat_android.bundle"
         },
         {
-            "name": "move_the_box",
+            "name": "推箱子",
             "uri": "https://dwzhangdavid.com/byr/microplugins/move_the_box_android.bundle",
             "uri_ios": "https://dwzhangdavid.com/byr/microplugins/move_the_box_ios.bundle",
             "uri_android": "https://dwzhangdavid.com/byr/microplugins/move_the_box_android.bundle"
