@@ -20,7 +20,7 @@
             "uri_android": "https://dwzhangdavid.com/byr/microplugins/move_the_box_android.bundle"
         },
         {
-            "name": "2048",
+            "name": "测试2048",
             "uri": "https://dwzhangdavid.com/byr/microplugins/game_2048_android.bundle",
             "uri_ios": "https://dwzhangdavid.com/byr/microplugins/game_2048_ios.bundle",
             "uri_android": "https://dwzhangdavid.com/byr/microplugins/game_2048_android.bundle"
