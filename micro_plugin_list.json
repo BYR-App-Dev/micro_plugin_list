@@ -2,6 +2,12 @@
     "on": true,
     "micro_plugins": [
         {
+            "name": "idiom_solitaire",
+            "uri": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_android.bundle",
+            "uri_ios": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_ios.bundle",
+            "uri_android": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_android.bundle"
+        },
+        {
             "name": "chat",
             "uri": "https://dwzhangdavid.com/byr/microplugins/chat_android.bundle",
             "uri_ios": "https://dwzhangdavid.com/byr/microplugins/chat_ios.bundle",
