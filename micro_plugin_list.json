@@ -2,6 +2,12 @@
     "on": true,
     "micro_plugins": [
         {
+            "name": "成语接龙",
+            "uri": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_android.bundle",
+            "uri_ios": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_ios.bundle",
+            "uri_android": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_android.bundle"
+        },
+        {
             "name": "推箱子",
             "uri": "https://dwzhangdavid.com/byr/microplugins/move_the_box_android.bundle",
             "uri_ios": "https://dwzhangdavid.com/byr/microplugins/move_the_box_ios.bundle",
