@@ -18,6 +18,12 @@
             "uri": "https://dwzhangdavid.com/byr/microplugins/game_2048_android.bundle",
             "uri_ios": "https://dwzhangdavid.com/byr/microplugins/game_2048_ios.bundle",
             "uri_android": "https://dwzhangdavid.com/byr/microplugins/game_2048_android.bundle"
+        },
+        {
+            "name": "test",
+            "uri": "https://dwzhangdavid.com/byr/microplugins/test_android.bundle",
+            "uri_ios": "https://dwzhangdavid.com/byr/microplugins/test_ios.bundle",
+            "uri_android": "https://dwzhangdavid.com/byr/microplugins/test_android.bundle"
         }
     ]
 }
