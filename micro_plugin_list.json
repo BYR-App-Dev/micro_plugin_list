@@ -3,21 +3,21 @@
     "micro_plugins": [
         {
             "name": "首尾接龙",
-            "uri": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_android.bundle",
-            "uri_ios": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_ios.bundle",
-            "uri_android": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_android.bundle"
+            "uri": "https://byr-app-dev.github.io/microplugin_bundles/bundles/idiom_solitaire_android.bundle",
+            "uri_ios": "https://byr-app-dev.github.io/microplugin_bundles/bundles/idiom_solitaire_ios.bundle",
+            "uri_android": "https://byr-app-dev.github.io/microplugin_bundles/bundles/idiom_solitaire_android.bundle"
         },
         {
             "name": "推箱子",
-            "uri": "https://dwzhangdavid.com/byr/microplugins/move_the_box_android.bundle",
-            "uri_ios": "https://dwzhangdavid.com/byr/microplugins/move_the_box_ios.bundle",
-            "uri_android": "https://dwzhangdavid.com/byr/microplugins/move_the_box_android.bundle"
+            "uri": "https://byr-app-dev.github.io/microplugin_bundles/bundles/move_the_box_android.bundle",
+            "uri_ios": "https://byr-app-dev.github.io/microplugin_bundles/bundles/move_the_box_ios.bundle",
+            "uri_android": "https://byr-app-dev.github.io/microplugin_bundles/bundles/move_the_box_android.bundle"
         },
         {
             "name": "2048",
-            "uri": "https://dwzhangdavid.com/byr/microplugins/game_2048_android.bundle",
-            "uri_ios": "https://dwzhangdavid.com/byr/microplugins/game_2048_ios.bundle",
-            "uri_android": "https://dwzhangdavid.com/byr/microplugins/game_2048_android.bundle"
+            "uri": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_android.bundle",
+            "uri_ios": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_ios.bundle",
+            "uri_android": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_android.bundle"
         }
     ]
 }
