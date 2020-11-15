@@ -2,7 +2,7 @@
     "on": true,
     "micro_plugins": [
         {
-            "name": "成语接龙",
+            "name": "首尾接龙",
             "uri": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_android.bundle",
             "uri_ios": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_ios.bundle",
             "uri_android": "https://dwzhangdavid.com/byr/microplugins/idiom_solitaire_android.bundle"
