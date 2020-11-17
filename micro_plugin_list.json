@@ -2,6 +2,12 @@
     "on": true,
     "micro_plugins": [
         {
+            "name": "飞花令",
+            "uri": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_token_android.bundle",
+            "uri_ios": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_token_ios.bundle",
+            "uri_android": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_token_android.bundle"
+        },
+        {
             "name": "首尾接龙",
             "uri": "https://byr-app-dev.github.io/microplugin_bundles/bundles/idiom_solitaire_android.bundle",
             "uri_ios": "https://byr-app-dev.github.io/microplugin_bundles/bundles/idiom_solitaire_ios.bundle",
