@@ -6,24 +6,36 @@
             "uri": "https://microplugins.byrmobile.ml:8000/flying_token_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/flying_token_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/flying_token_android.bundle"
+            "uri_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_token_android.bundle",
+            "uri_ios_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_token_ios.bundle",
+            "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_token_android.bundle"
         },
         {
             "name": "首尾接龙",
             "uri": "https://microplugins.byrmobile.ml:8000/idiom_solitaire_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/idiom_solitaire_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/idiom_solitaire_android.bundle"
+            "uri_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/idiom_solitaire_android.bundle",
+            "uri_ios_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/idiom_solitaire_ios.bundle",
+            "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/idiom_solitaire_android.bundle"
         },
         {
             "name": "推箱子",
             "uri": "https://microplugins.byrmobile.ml:8000/move_the_box_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/move_the_box_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/move_the_box_android.bundle"
+            "uri_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/move_the_box_android.bundle",
+            "uri_ios_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/move_the_box_ios.bundle",
+            "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/move_the_box_android.bundle"
         },
         {
             "name": "2048",
             "uri": "https://microplugins.byrmobile.ml:8000/game_2048_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/game_2048_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/game_2048_android.bundle"
+            "uri_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_android.bundle",
+            "uri_ios_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_ios.bundle",
+            "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_android.bundle"
         }
     ]
 }
