@@ -36,6 +36,15 @@
             "uri_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_android.bundle",
             "uri_ios_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_ios.bundle",
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_android.bundle"
+        },
+        {
+            "name": "匹配聊天",
+            "uri": "https://microplugins.byrmobile.ml:8000/qamechat_android.bundle",
+            "uri_ios": "https://microplugins.byrmobile.ml:8000/qamechat_ios.bundle",
+            "uri_android": "https://microplugins.byrmobile.ml:8000/qamechat_android.bundle",
+            "uri_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/qamechat_android.bundle",
+            "uri_ios_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/qamechat_ios.bundle",
+            "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/qamechat_android.bundle"
         }
     ]
 }
