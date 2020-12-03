@@ -38,6 +38,15 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_android.bundle"
         },
         {
+            "name": "聊天室",
+            "uri": "https://microplugins.byrmobile.ml:8000/chat_android.bundle",
+            "uri_ios": "https://microplugins.byrmobile.ml:8000/chat_ios.bundle",
+            "uri_android": "https://microplugins.byrmobile.ml:8000/chat_android.bundle",
+            "uri_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/chat_android.bundle",
+            "uri_ios_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/chat_ios.bundle",
+            "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/chat_android.bundle"
+        },
+        {
             "name": "匹配聊天(连接不稳还掉线)",
             "uri": "https://microplugins.byrmobile.ml:8000/qamechat_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/qamechat_ios.bundle",
