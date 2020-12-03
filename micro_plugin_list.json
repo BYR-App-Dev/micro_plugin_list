@@ -47,7 +47,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/qamechat_android.bundle"
         },
         {
-            "name": "匹配聊天(速度快不掉线)",
+            "name": "匹配聊天(测试中)",
             "uri": "https://microplugins.byrmobile.ml:8000/qamechatcn_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/qamechatcn_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/qamechatcn_android.bundle",
