@@ -2,13 +2,22 @@
     "on": true,
     "micro_plugins": [
         {
-            "name": "飞花令",
+            "name": "飞花令古诗词专场",
             "uri": "https://microplugins.byrmobile.ml:8000/flying_token_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/flying_token_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/flying_token_android.bundle",
             "uri_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_token_android.bundle",
             "uri_ios_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_token_ios.bundle",
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_token_android.bundle"
+        },
+        {
+            "name": "飞花令歌词专场",
+            "uri": "https://microplugins.byrmobile.ml:8000/flying_lyrics_android.bundle",
+            "uri_ios": "https://microplugins.byrmobile.ml:8000/flying_lyrics_ios.bundle",
+            "uri_android": "https://microplugins.byrmobile.ml:8000/flying_lyrics_android.bundle",
+            "uri_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_lyrics_android.bundle",
+            "uri_ios_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_lyrics_ios.bundle",
+            "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_lyrics_android.bundle"
         },
         {
             "name": "首尾接龙",
