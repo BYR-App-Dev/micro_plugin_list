@@ -56,7 +56,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/chat_android.bundle"
         },
         {
-            "name": "匹配聊天(连接不稳还掉线)",
+            "name": "匹配聊天(旧 12月8号下线)",
             "uri": "https://microplugins.byrmobile.ml:8000/qamechat_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/qamechat_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/qamechat_android.bundle",
