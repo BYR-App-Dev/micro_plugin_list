@@ -2,7 +2,7 @@
     "on": true,
     "micro_plugins": [
         {
-            "name": "飞花令古诗词专场",
+            "name": "飞花令古诗词专场(12月8号重置)",
             "uri": "https://microplugins.byrmobile.ml:8000/flying_token_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/flying_token_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/flying_token_android.bundle",
@@ -11,7 +11,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_token_android.bundle"
         },
         {
-            "name": "飞花令歌词专场",
+            "name": "飞花令歌词专场(12月8号重置)",
             "uri": "https://microplugins.byrmobile.ml:8000/flying_lyrics_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/flying_lyrics_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/flying_lyrics_android.bundle",
@@ -20,7 +20,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_lyrics_android.bundle"
         },
         {
-            "name": "首尾接龙",
+            "name": "首尾接龙(12月8号重置)",
             "uri": "https://microplugins.byrmobile.ml:8000/idiom_solitaire_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/idiom_solitaire_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/idiom_solitaire_android.bundle",
@@ -47,7 +47,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_android.bundle"
         },
         {
-            "name": "聊天室",
+            "name": "聊天室(12月8号重置)",
             "uri": "https://microplugins.byrmobile.ml:8000/chat_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/chat_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/chat_android.bundle",
@@ -65,7 +65,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/qamechat_android.bundle"
         },
         {
-            "name": "匹配聊天(连接稳定不掉线)",
+            "name": "匹配聊天(12月8号重置数据库)",
             "uri": "https://microplugins.byrmobile.ml:8000/qamechatcn_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/qamechatcn_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/qamechatcn_android.bundle",
