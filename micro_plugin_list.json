@@ -47,7 +47,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_android.bundle"
         },
         {
-            "name": "聊天室(12月8号重置)",
+            "name": "聊天室",
             "uri": "https://microplugins.byrmobile.ml:8000/chat_android.bundle",
             "uri_ios": "https://microplugins.byrmobile.ml:8000/chat_ios.bundle",
             "uri_android": "https://microplugins.byrmobile.ml:8000/chat_android.bundle",
