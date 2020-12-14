@@ -1,7 +1,7 @@
 {
     "on": true,
     "show_web_link": true,
-    "web_link": "https://servers.byrmobile.ml:3000/web",
+    "web_link": "ibyr.ml",
     "micro_plugins": [
         {
             "name": "飞花令古诗词专场",
