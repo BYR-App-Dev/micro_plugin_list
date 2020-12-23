@@ -32,9 +32,9 @@
         },
         {
             "name": "24点",
-            "uri": "https://bbs.byr.cn/att/BBSOpenAPI/0/2237/2274160",
-            "uri_ios": "https://bbs.byr.cn/att/BBSOpenAPI/0/2237/2429747",
-            "uri_android": "https://bbs.byr.cn/att/BBSOpenAPI/0/2237/2274160",
+            "uri": "https://bbs.byr.cn/att/BBSOpenAPI/0/2237/2274201",
+            "uri_ios": "https://bbs.byr.cn/att/BBSOpenAPI/0/2237/2429788",
+            "uri_android": "https://bbs.byr.cn/att/BBSOpenAPI/0/2237/2274201",
             "uri_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/group_game24_android.bundle",
             "uri_ios_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/group_game24_ios.bundle",
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/group_game24_android.bundle"
