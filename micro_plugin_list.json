@@ -1,5 +1,5 @@
 {
-    "on": true,
+    "on": false,
     "show_web_link": true,
     "web_link": "ibyr.ml",
     "micro_plugins": [
