@@ -4,7 +4,7 @@
     "web_link": "ibyr.ml",
     "micro_plugins": [
         {
-            "name": "飞花令古诗词专场",
+            "name": "飞花令古诗词专场(1月1号下线)",
             "uri": "https://assets.byrmobile.ml:3000/microplugins/bundles/flying_token_android.bundle",
             "uri_ios": "https://assets.byrmobile.ml:3000/microplugins/bundles/flying_token_ios.bundle",
             "uri_android": "https://assets.byrmobile.ml:3000/microplugins/bundles/flying_token_android.bundle",
@@ -31,7 +31,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/idiom_solitaire_android.bundle"
         },
         {
-            "name": "24点",
+            "name": "24点(1月1号下线)",
             "uri": "https://assets.byrmobile.ml:3000/microplugins/bundles/group_game24_android.bundle",
             "uri_ios": "https://assets.byrmobile.ml:3000/microplugins/bundles/group_game24_ios.bundle",
             "uri_android": "https://assets.byrmobile.ml:3000/microplugins/bundles/group_game24_android.bundle",
