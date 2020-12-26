@@ -13,7 +13,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_token_android.bundle"
         },
         {
-            "name": "飞花令歌词专场",
+            "name": "飞花令歌词专场(1月1号下线)",
             "uri": "https://assets.byrmobile.ml:3000/microplugins/bundles/flying_lyrics_android.bundle",
             "uri_ios": "https://assets.byrmobile.ml:3000/microplugins/bundles/flying_lyrics_ios.bundle",
             "uri_android": "https://assets.byrmobile.ml:3000/microplugins/bundles/flying_lyrics_android.bundle",
@@ -22,7 +22,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/flying_lyrics_android.bundle"
         },
         {
-            "name": "首尾接龙",
+            "name": "首尾接龙(1月1号下线)",
             "uri": "https://assets.byrmobile.ml:3000/microplugins/bundles/idiom_solitaire_android.bundle",
             "uri_ios": "https://assets.byrmobile.ml:3000/microplugins/bundles/idiom_solitaire_ios.bundle",
             "uri_android": "https://assets.byrmobile.ml:3000/microplugins/bundles/idiom_solitaire_android.bundle",
@@ -40,7 +40,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/group_game24_android.bundle"
         },
         {
-            "name": "推箱子",
+            "name": "推箱子(1月1号下线)",
             "uri": "https://assets.byrmobile.ml:3000/microplugins/bundles/move_the_box_android.bundle",
             "uri_ios": "https://assets.byrmobile.ml:3000/microplugins/bundles/move_the_box_ios.bundle",
             "uri_android": "https://assets.byrmobile.ml:3000/microplugins/bundles/move_the_box_android.bundle",
@@ -49,7 +49,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/move_the_box_android.bundle"
         },
         {
-            "name": "2048",
+            "name": "2048(1月1号下线)",
             "uri": "https://assets.byrmobile.ml:3000/microplugins/bundles/game_2048_android.bundle",
             "uri_ios": "https://assets.byrmobile.ml:3000/microplugins/bundles/game_2048_ios.bundle",
             "uri_android": "https://assets.byrmobile.ml:3000/microplugins/bundles/game_2048_android.bundle",
@@ -58,7 +58,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/game_2048_android.bundle"
         },
         {
-            "name": "聊天室",
+            "name": "聊天室(1月1号下线)",
             "uri": "https://assets.byrmobile.ml:3000/microplugins/bundles/chat_android.bundle",
             "uri_ios": "https://assets.byrmobile.ml:3000/microplugins/bundles/chat_ios.bundle",
             "uri_android": "https://assets.byrmobile.ml:3000/microplugins/bundles/chat_android.bundle",
@@ -67,7 +67,7 @@
             "uri_android_oversea": "https://byr-app-dev.github.io/microplugin_bundles/bundles/chat_android.bundle"
         },
         {
-            "name": "匹配聊天",
+            "name": "匹配聊天(1月1号下线)",
             "uri": "https://assets.byrmobile.ml:3000/microplugins/bundles/qamechat_android.bundle",
             "uri_ios": "https://assets.byrmobile.ml:3000/microplugins/bundles/qamechat_ios.bundle",
             "uri_android": "https://assets.byrmobile.ml:3000/microplugins/bundles/qamechat_android.bundle",
